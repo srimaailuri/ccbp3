@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.summary-Box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.checkOutBtn {
+  background-color: #0b69ff;
+}
